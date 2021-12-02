@@ -2,9 +2,9 @@
 Hello,Guys
 
 Command To Run
->pkg install python3
->pip install requests
->pkg install git 
+>pkg install python3<br>
+>pip install requests<br>
+>pkg install git <br>
 
-last Cmd
-python3 Fb-Crack.py
+last Cmd<br>
+>python3 Fb-Crack.py
