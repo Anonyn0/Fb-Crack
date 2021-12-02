@@ -7,4 +7,6 @@ Command To Run
 >pkg install git <br>
 
 last Cmd<br>
->python3 Fb-Crack.py
+>python3 Fb-Crack.py<br>
+
+<p font-color="cyan">Have ,A nice Day<br>Good Luck</p>
